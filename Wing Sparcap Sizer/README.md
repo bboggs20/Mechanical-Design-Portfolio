@@ -1,0 +1,1 @@
+Script for determining the number of carbon fiber plies required to handle lift loads of a balsa built-up aircraft wing.
