@@ -1,2 +1,2 @@
 # Mechanical-Design-Portfolio
-CAD files and documentation of Mechanical Design work
+CAD files, scripts, and documentation of Mechanical Design work
